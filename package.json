@@ -1,0 +1,20 @@
+{
+  "name": "data-inspect",
+  "version": "1.0.0",
+  "description": "## params + data: `any` + options: `object`   - expanded: `boolean` (default: false)",
+  "main": "data-inspect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoussamDev21/data-inspect.git"
+  },
+  "author": "houssamrakib21@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoussamDev21/data-inspect/issues"
+  },
+  "homepage": "https://github.com/HoussamDev21/data-inspect#readme"
+}
